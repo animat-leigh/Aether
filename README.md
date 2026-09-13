@@ -208,3 +208,6 @@ Aether is available as a full free version with all features and updates include
 ---
 
 Unlock your freedom of speech today with Aether! Download the official Aether free version now and join the conversation without limits!
+
+---
+**Last updated:** 2026-09-13 19:01:50 UTC
